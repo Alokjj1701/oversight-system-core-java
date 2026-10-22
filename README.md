@@ -49,6 +49,10 @@ The demo creates an issuance, walks it through every approval, and shows the blo
 | 7. Delivery & ops | Docker, docker-compose, Kubernetes with probes, CI pipeline, Prometheus + Grafana |
 | 8. UI (optional) | Small React screen for submit/approve |
 
+## Author
+
+Alok Narayan Sharma ([@Alokjj1701](https://github.com/Alokjj1701))
+
 ## License
 
 [MIT](LICENSE)
